@@ -20,3 +20,5 @@ based on the distance between the two platforms.
 
 ![Regression](https://github.com/tusharsircar95/GameBot/blob/master/Stick%20Hero/Plot_Regression.jpeg)
 
+##Future Improvements
+Make the algorithm machine learning based so that the coefficients or duration to hold will be learnt by the bot itself over time
