@@ -1,7 +1,7 @@
 #Stick Hero Automtaion Bot
 
 #### Game Link: http://m.silvergames.com/game/stick-hero/
-#### Video Link: 
+#### Video Link: https://youtu.be/01Q3bSwZm_o
 
 Aim of the game is to click and hold the mouse for just the right time so that the rod generated is enough to make the character reach the 
 next platform and not too big that it will overshoot.
