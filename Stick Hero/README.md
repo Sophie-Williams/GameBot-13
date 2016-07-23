@@ -7,7 +7,7 @@ Aim of the game is to click and hold the mouse for just the right time so that t
 next platform and not too big that it will overshoot.
 
 
-Rationale is to decide for how long we need to click so that the rod length is just enough to make us reach the next platform. So 
+Challenge is to decide for how long we need to click so that the rod length is just enough to make us reach the next platform. So 
 the problem is to predict or find Duration as a function of Distance (between two consequetive platforms). We can observe that the rod length 
 is actually increasing linearly with duration of hold. To verify this, we vary the duration for which we click and hold, 
 and find out the rod length in each scenario and these data points are plotted:
