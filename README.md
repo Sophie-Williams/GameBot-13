@@ -2,7 +2,7 @@
 Smart bots in python to play online games. Uses windows API and PIL in python to automate gameplay for various online games. 
 Further details can be found at http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117
 
-#Project 1: Stick Hero Automtaion Bot
+# Project 1: Stick Hero Automtaion Bot
 
 #### Game Link: http://m.silvergames.com/game/stick-hero/
 #### Video Link: https://youtu.be/01Q3bSwZm_o
